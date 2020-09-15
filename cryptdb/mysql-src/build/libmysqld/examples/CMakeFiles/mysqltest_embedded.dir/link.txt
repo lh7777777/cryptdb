@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wall -Wno-unused-parameter -fno-implicit-templates -fno-exceptions -fno-rtti -O2 -g -DDBUG_OFF    -Wl,--export-dynamic CMakeFiles/mysqltest_embedded.dir/__/__/client/mysqltest.cc.o  -o mysqltest_embedded  -lpthread ../libmysqld.a -lpthread -lz -lm -lrt -lcrypt -ldl -laio 
