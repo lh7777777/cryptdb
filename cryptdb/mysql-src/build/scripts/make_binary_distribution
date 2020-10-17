@@ -1,1 +1,0 @@
-cd /home/zy/cryptdb/mysql-src/build && '/usr/bin/cpack' -G TGZ --config CPackConfig.cmake
